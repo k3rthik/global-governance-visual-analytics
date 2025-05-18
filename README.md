@@ -77,7 +77,7 @@ Watch our full walkthrough on YouTube:
 ## 📜 Citation
 
 ```
-Akkena, B., Pandillapally, R., Pachabatla, K. (2025). *Unveiling Global Governance Patterns Through Visual Analytics*. Rochester Institute of Technology.
+Akkena Bhaskar, Pandillapally Rithvik, Pachabatla Karthik. (2025). *Unveiling Global Governance Patterns Through Visual Analytics*. Rochester Institute of Technology.
 ```
 
 ---
